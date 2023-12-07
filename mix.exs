@@ -1,4 +1,4 @@
-defmodule NervesSystemRpi4Intuitivo.MixProject do
+defmodule NervesSystemRpi4Intuitivo6.MixProject do
   use Mix.Project
 
   @github_organization "intuitivo-ai"
